@@ -1,0 +1,146 @@
+[
+ {
+   "PERSON": "Anakin Skywalker",
+   "ROLE": "Sith",
+   "TEAM": "Jedi",
+   "OBJECT": "Padme Amidala",
+   "RELATION": "PartnerOf",
+   "HOME": "Tattooine",
+   "CLIMATE": "Desert"
+ },
+ {
+   "PERSON": "Anakin Skywalker",
+   "ROLE": "Sith",
+   "TEAM": "Jedi",
+   "OBJECT": "Luke Skywalker",
+   "RELATION": "ParentOf",
+   "HOME": "Tattooine",
+   "CLIMATE": "Desert"
+ },
+ {
+   "PERSON": "Anakin Skywalker",
+   "ROLE": "Sith",
+   "TEAM": "Jedi",
+   "OBJECT": "Leia Organa",
+   "RELATION": "ParentOf",
+   "HOME": "Tattooine",
+   "CLIMATE": "Desert"
+ },
+ {
+   "PERSON": "Padme Amidala",
+   "ROLE": "Royalty",
+   "TEAM": "Alliance",
+   "OBJECT": "Anakin Skywalker",
+   "RELATION": "PartnerOf",
+   "HOME": "Naboo",
+   "CLIMATE": "Temperate"
+ },
+ {
+   "PERSON": "Padme Amidala",
+   "ROLE": "Royalty",
+   "TEAM": "Alliance",
+   "OBJECT": "Luke Skywalker",
+   "RELATION": "ParentOf",
+   "HOME": "Naboo",
+   "CLIMATE": "Temperate"
+ },
+ {
+   "PERSON": "Padme Amidala",
+   "ROLE": "Royalty",
+   "TEAM": "Alliance",
+   "OBJECT": "Leia Organa",
+   "RELATION": "ParentOf",
+   "HOME": "Naboo",
+   "CLIMATE": "Temperate"
+ },
+ {
+   "PERSON": "Luke Skywalker",
+   "ROLE": "Knight",
+   "TEAM": "Jedi",
+   "OBJECT": "Padme Amidala",
+   "RELATION": "ChildOf",
+   "HOME": "Tattooine",
+   "CLIMATE": "Desert"
+ },
+ {
+   "PERSON": "Luke Skywalker",
+   "ROLE": "Knight",
+   "TEAM": "Jedi",
+   "OBJECT": "Leia Organa",
+   "RELATION": "SiblingOf",
+   "HOME": "Tattooine",
+   "CLIMATE": "Desert"
+ },
+ {
+   "PERSON": "Luke Skywalker",
+   "ROLE": "Knight",
+   "TEAM": "Jedi",
+   "OBJECT": "Anakin Skywalker",
+   "RELATION": "ChildOf",
+   "HOME": "Tattooine",
+   "CLIMATE": "Desert"
+ },
+ {
+   "PERSON": "Leia Organa",
+   "ROLE": "Royalty",
+   "TEAM": "Alliance",
+   "OBJECT": "Anakin Skywalker",
+   "RELATION": "ChildOf",
+   "HOME": "Alderaan",
+   "CLIMATE": "Forested"
+ },
+ {
+   "PERSON": "Leia Organa",
+   "ROLE": "Royalty",
+   "TEAM": "Alliance",
+   "OBJECT": "Luke  Skywalker",
+   "RELATION": "SiblingOf",
+   "HOME": "Alderaan",
+   "CLIMATE": "Forested"
+ },
+ {
+   "PERSON": "Leia Organa",
+   "ROLE": "Royalty",
+   "TEAM": "Alliance",
+   "OBJECT": "Padme Amidala",
+   "RELATION": "ChildOf",
+   "HOME": "Alderaan",
+   "CLIMATE": "Forested"
+ },
+ {
+   "PERSON": "Han Solo",
+   "ROLE": "Smuggler",
+   "TEAM": "Alliance",
+   "OBJECT": "Leia Organa",
+   "RELATION": "PartnerOf",
+   "HOME": "Corellia",
+   "CLIMATE": "Temperate"
+ },
+ {
+   "PERSON": "Ben Solo",
+   "ROLE": "Sith",
+   "TEAM": "Jedi",
+   "OBJECT": "Leia Organa",
+   "RELATION": "ChildOf",
+   "HOME": "Chandrila",
+   "CLIMATE": "Temperate"
+ },
+ {
+   "PERSON": "Han Solo",
+   "ROLE": "Smuggler",
+   "TEAM": "Alliance",
+   "OBJECT": "Ben Solo",
+   "RELATION": "ParentOf",
+   "HOME": "Corellia",
+   "CLIMATE": "Temperate"
+ },
+ {
+   "PERSON": "Ben Solo",
+   "ROLE": "Sith",
+   "TEAM": "Jedi",
+   "OBJECT": "Han Solo",
+   "RELATION": "ChildOf",
+   "HOME": "Chandrila",
+   "CLIMATE": "Temperate"
+ }
+]

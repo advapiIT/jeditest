@@ -1,0 +1,26 @@
+<div>
+  <table id="characters">
+    <thead>
+      <tr>
+        <td>PERSON</td>
+        <td>ROLE</td>
+        <td>TEAM</td>
+        <td>OBJECT</td>
+        <td>RELATION</td>
+        <td>HOME</td>
+        <td>CLIMATE</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor = "let item of items">
+        <td>{{item.person}}</td>
+        <td>{{item.role}}</td>
+        <td>{{item.team}}</td>
+        <td>{{item.object}}</td>
+        <td>{{item.relation}}</td>
+        <td>{{item.home}}</td>
+        <td>{{item.climate}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
